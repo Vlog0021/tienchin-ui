@@ -1,5 +1,5 @@
 {
-  "name": "ruoyi",
+  "name": "tienchin",
   "version": "3.8.5",
   "description": "TienChin健身管理系统",
   "author": "shmily",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/y_project/RuoYi-Vue.git"
+    "url": "https://gitee.com/y_project/tienchin-Vue.git"
   },
   "dependencies": {
     "@element-plus/icons-vue": "2.0.10",
@@ -20,6 +20,7 @@
     "@vueuse/core": "9.5.0",
     "axios": "0.27.2",
     "echarts": "5.4.0",
+    "element-china-area-data": "5",
     "element-plus": "2.2.27",
     "file-saver": "2.0.5",
     "fuse.js": "6.6.2",
